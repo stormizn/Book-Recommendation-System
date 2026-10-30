@@ -1,1 +1,3 @@
-mysql-connector-python
+# MySQL driver used by main.py.
+# Lower bound: 8.0.33  Upper bound: <10 (no breaking major release).
+mysql-connector-python>=8.0.33,<10

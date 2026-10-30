@@ -1,7 +1,3 @@
-# Local context files (not for the repo)
-PROJECT_DETAILS.md
-CONVERSATION_HISTORY.md
-
 # Python
 __pycache__/
 *.py[cod]

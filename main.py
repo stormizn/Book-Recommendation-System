@@ -36,7 +36,7 @@ import mysql.connector
 HOST = os.environ.get("BOOK_DB_HOST", "localhost")
 PORT = int(os.environ.get("BOOK_DB_PORT", "3306"))
 USER = os.environ.get("BOOK_DB_USER", "root")
-PASSWORD = os.environ.get("BOOK_DB_PASSWORD", "stormizn@sql1234$<>")
+PASSWORD = os.environ.get("BOOK_DB_PASSWORD", "your_password_here")
 DATABASE = os.environ.get("BOOK_DB_NAME", "book_recommendation_db")
 
 # ---------------------------------------------------------------------------

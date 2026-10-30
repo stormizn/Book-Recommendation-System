@@ -102,6 +102,8 @@ other users' data to work.
 The user rated *Cosmos* (Science) **5** and *The Da Vinci Code* (Mystery) **4**:
 
 ```
+--- Get Recommendations ---
+
 Your favourite genres: Science (5.0/5), Mystery (4.0/5)
 Top 10 of 15 matching book(s), best genre first:
 ID    Title                         Author                Genre
@@ -116,6 +118,7 @@ ID    Title                         Author                Genre
 63    Inferno                       Dan Brown             Mystery
 9     Murder on the Orient Express  Agatha Christie       Mystery
 64    Origin                        Dan Brown             Mystery
+--------------------------------------------------------------------------
 ```
 
 Science (average 5.0) is filled first, then Mystery (average 4.0). *Cosmos* and
@@ -338,6 +341,8 @@ Login successful! Welcome, carol.
 8. Exit
 Enter your choice (1-8): 1
 
+--- Browse Books ---
+
 1. Show all books
 2. Filter by genre
 3. View full details of a book
@@ -382,6 +387,8 @@ Your rating : 5/5
 The profile page:
 
 ```text
+--- My Profile ---
+
 ========================================================
   PROFILE - carol
 ========================================================
